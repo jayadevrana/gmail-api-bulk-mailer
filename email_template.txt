@@ -1,0 +1,8 @@
+Hi {{first_name}},
+
+We have an exclusive offer for {{company}}.
+
+{{custom_offer}}
+
+Regards,
+Jayadev
